@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../math_bot/.idea/math_bot.iml" filepath="$PROJECT_DIR$/../math_bot/.idea/math_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../math_bot/echo_bot/.idea/test_math_bot.iml" filepath="$PROJECT_DIR$/../math_bot/echo_bot/.idea/test_math_bot.iml" />
+    </modules>
+  </component>
+</project>
